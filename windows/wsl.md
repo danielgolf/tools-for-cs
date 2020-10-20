@@ -1,8 +1,3 @@
-﻿## Windows
-* VMs
-  * VirtualBox
-* Testen mit SSH auf ubu18@eecs
-
 ### Windows-Subsystem für Linux
 
 Windows-Subsystem für Linux (**WSL**) ist eine Virtualisierungstechnologie, um einen [Linux-Kernel](https://de.wikipedia.org/wiki/Kernel_(Betriebssystem)) unter Windows auszuführen.
@@ -18,7 +13,7 @@ Bevor wir uns um die Installation kümmern, müsst ihr euch entscheiden, ob ihr 
 
 eingegeben wird.
 
-![Anforderungen](anforderungen_wsl.PNG)
+![Anforderungen](../images/anforderungen_wsl.png)
 **Achtung** je nach Sprache eures Betriebssystem unterscheiden sich die Begriffe nach ````Select String````, es genügt auch nur ````systeminfo```` einzugeben.
 Nun wird der Betriebssystemname, Betriebssystemversion & der Systemtyp angezeigt.
 

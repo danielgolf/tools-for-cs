@@ -5,9 +5,9 @@
 
 ### Ich arbeite mit ...
 
-* [Windows](windows.md)
-* [Linux](linux.md)
-* [MacOS](macos.md)
+* [Windows](./windows/windows.md)
+* [Linux](./linux/linux.md)
+* [MacOS](./mac/macos.md)
 
 ### Weitere Hinweise
 * valgrind
