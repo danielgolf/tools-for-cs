@@ -12,7 +12,7 @@ da ein komplettes [Operating System](https://de.wikipedia.org/wiki/Betriebssyste
 **TL;DR**
 
 
-|           |            VM            |                                   WSL                                   |
+|           |            VM Header     |                                   WSL Header                            |
 |:---------:|:------------------------:|:-----------------------------------------------------------------------:|
 |  Vorteile | - GUI<br>- komplettes OS | - viel weniger Ressourcen aufwendig<br>- direkte Gewöhnung ans Terminal |  
 | Nachteile | - Ressourcen aufwendig   | - fehlende GUI                                                          |  
