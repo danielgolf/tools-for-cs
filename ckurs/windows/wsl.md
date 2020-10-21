@@ -11,7 +11,10 @@ Wir empfehlen **WSL 2**, da es einige Vorteile gegenüber **WSL 1** bietet: [wei
 **WSL** wird im Moment nur von Windows 10 [64-Bit](https://de.wikipedia.org/wiki/64-Bit-Architektur) unterstützt.
 Außerdem wird für **WSL 1** mindestens Windows Build 16215 benötigt und für **WSL 2** mindestens Windows Build 18917.
 Das lässt sich ganz einfach überprüfen, indem in PowerShell
-```systeminfo | Select-String "^Betriebssystemname","^Betriebssystemversion", "^Systemtyp"```
+```
+systeminfo | Select-String "^Betriebssystemname","^Betriebssystemversion", "^Systemtyp"
+```
+
 eingegeben wird.
 
 ![Anforderungen](anforderungen_wsl.png)
