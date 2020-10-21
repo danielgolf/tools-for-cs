@@ -4,10 +4,10 @@ Auf dieser Seite stellen wir euch zwei Varianten vor wie ihr C unter Windows kom
 Das wäre einmal die Virtual Machines (VMs) und das Windows-Subsystem für Linux (WSL).
 Der Vorteil von WSL ist, dass das Freigeben von Dateien, das Ausführen von Befehlen zwischen Windows und der WSL-Umgebung
 quasi nahtlos passiert. Hinzukommt, dass es schnell startet.
-Der Vorteil einer VM liegt darin, dass ein komplettes Betriebssystem simuliert wird, eine VM bringt ein komplettes 
+Der Vorteil einer VM liegt darin, dass ein komplettes [Operating System](https://de.wikipedia.org/wiki/Betriebssystem) (OS)  simuliert wird, eine VM bringt ein komplettes 
 [Graphic User Interface](https://de.wikipedia.org/wiki/Grafische_Benutzeroberfl%C3%A4che) (GUI) mit sich. 
 Daraus ergeben sich auch direkt die Nachteile für beide Varianten, bei WSL fehlt eine GUI. Eine VM hingegen ist Ressourcen aufwendiger, 
-da ein komplettes [Operating System](https://de.wikipedia.org/wiki/Betriebssystem) (OS) simuliert werden muss.
+da ein komplettes OS simuliert werden muss.
 
 **TL;DR**
 
