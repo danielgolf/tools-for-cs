@@ -5,7 +5,7 @@
 
 ### Ich arbeite mit ...
 
-* [Windows](windows.md)
+* [Windows](windows/windows.md)
 * [Linux](linux.md)
 * [MacOS](macos.md)
 
