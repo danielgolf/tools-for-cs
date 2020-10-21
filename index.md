@@ -7,4 +7,4 @@
 ## Inhaltsverzeichnis
 * TODO
 
-* [C-Kurs Tipps](ckurs.md)
+* [C-Kurs Tipps](ckurs/ckurs.md)
