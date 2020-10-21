@@ -16,7 +16,6 @@ da ein komplettes [Operating System](https://de.wikipedia.org/wiki/Betriebssyste
 |:---------:|:------------------------:|:-----------------------------------------------------------------------:|
 |  Vorteile | - GUI<br>- komplettes OS | - viel weniger Ressourcen aufwendig<br>- direkte Gewöhnung ans Terminal |  
 | Nachteile | - Ressourcen aufwendig   | - fehlende GUI                                                          |  
-|           |                          |                                                                         |
 
 
 Für den Einstieg ist vielleicht eine VM einfacher, jedoch ist das Terminal im Informatik Studium dein bester Freund und im 
