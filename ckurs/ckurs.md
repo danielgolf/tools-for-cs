@@ -13,3 +13,4 @@
 * valgrind
 * debugging (dgb)
 * Zeit management, debugging braucht Zeit, abgabeserver können überlastet sein
+* make und cmake
