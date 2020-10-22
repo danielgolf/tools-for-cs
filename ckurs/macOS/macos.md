@@ -1,5 +1,5 @@
 ## MacOS
-Auf dieser Seite wollen wir euch die ersten Sritte erklären, wie ihr C-Code auf einem Mac compilieren könnt. Dadurch, dass macOS ein sehr Unix nahes Betriebssytem ist, ist das zum Glück nicht alzu kompliziert.
+Auf dieser Seite wollen wir euch die ersten Sritte erklären, wie ihr C-Code auf einem Mac compilieren könnt und andere nützliche Informationen für den Start mit C. Dadurch, dass macOS ein sehr Unix nahes Betriebssytem ist, ist das zum Glück nicht alzu kompliziert.
 
 ## C-Compiler
 Als erstes solltet ihr euer Terminal öffnen. Dies könnt ihr am schnellsten machen indem ihr die Suchleiste mithilfe von command und space öffnet und dann einfach Terminal eingebt.
