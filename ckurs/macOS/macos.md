@@ -34,7 +34,7 @@ Nun gebt ihr
 ```
 brew install gdb
 ```
-in euer Terminal ein. Im Gegensatz zu gcc ist es hiermit aber noch nicht getan. Damit ihr mit gdb arbeiten könnt müsst ihr erst einmal ein Zertifikat aufsetzen. Wie das Ganze genau funktioniert erfahrt ihr step by step [hier](https://dev.to/jasonelwood/setup-gdb-on-macos-in-2020-489k#generate-cert).
+in euer Terminal ein. Im Gegensatz zu gcc ist es hiermit aber noch nicht getan. Damit ihr mit gdb arbeiten könnt müsst ihr erst einmal ein Zertifikat aufsetzen. Wie das Ganze genau funktioniert erfahrt ihr step by step [hier](https://dev.to/jasonelwood/setup-gdb-on-macos-in-2020-489k#generate-cert). [Hier](https://crispybyte.wordpress.com/2013/05/30/gdb-erste-schritte/) findet ihr die ersten Befehle und Beispiele wie ihr den Debugger nutzt.
 
 Eine andere Möglichkeit wäre eine Integrierte Entwicklungsumgebung (IDE) (wie z.B. [CLion](https://www.jetbrains.com/de-de/clion/)) zu installieren und damit zu arbeiten. 
 
