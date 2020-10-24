@@ -1,5 +1,5 @@
 ## Einleitung
-Diese Ressourcensammlung soll dazu dienen Erstsemestern (und auch älteren Studierenden) ihren Informatik Studienalltag durch verschiedene Tipps und Tools zu erleichtern. Wir wollen möglichst viele nützliche Informationen zu sammeln und Tools kurz zu beschreiben. Jedoch können und wollen wir keine Vollständigkeit garantieren.  Falls ihr Vorschläge für Beiträge und Ergänzungen habt sind diese gerne gesehen.
+Diese Ressourcensammlung soll dazu dienen Erstsemestern (und auch älteren Studierenden) ihren Informatik Studienalltag durch verschiedene Tipps und Tools zu erleichtern. Wir wollen möglichst viele nützliche Informationen zu sammeln und Tools kurz zu beschreiben. Jedoch können und wollen wir keine Vollständigkeit garantieren.  Falls ihr Vorschläge für Beiträge und Ergänzungen habt, sind diese gerne gesehen.
 
 Im ersten Teil sollen vor allem Hinweise zum C-Kurs in den ersten beiden Wochen der informationstechnischen Studiengänge gegeben werden. Ziel ist es einen Überblick zu geben, wie vorhandene Ressourcen (aka euer Rechner oder Laptop) genutzt werden können, um den C-Kurs erfolgreich zu bewältigen. Egal ob es ein Mac- oder eine Windows-Maschine ist oder ob ihr Linux installiert habt. 
 
