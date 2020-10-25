@@ -16,26 +16,26 @@ For the sake of simplicity stellen wir hier nur eine Virtual Machine vor und das
 dazu klickt auf den Link und dann auf ``Windows hosts``. Nun führt ihr die Exe aus 
 und folgt den Steps.
 
-![Startup](vm/startup.png)
+![Startup](startup.png)
 
 
-![Startup](vm/2.png)
+![Startup](2.png)
 
 
-![Startup](vm/3.png)
+![Startup](3.png)
 
 
-![Startup](vm/4.png)
+![Startup](4.png)
 
 Hier auf ``Ja`` drücke, damit eure VB später auch einen Internetzugang hat.
 
 
 
-![Startup](vm/5.png)
+![Startup](5.png)
 
 
 
-![Startup](vm/6.png)
+![Startup](6.png)
 
 Hier auf ``Installieren`` klicken, dies dient dazu, das Windows eine Schnittstelle 
 zwischen Windows und der VB herstellen kann.
@@ -53,14 +53,14 @@ Achtet nur auf das ``LTS`` am Ende.
 
 Sobald ihr VB startet sollte die GUI so, oder so ähnlich, aussehen
 
-![Startup](vm/7.png)
+![Startup](7.png)
 
 Nun klickt ihr auf ``Neu``.
 
 
 
 
-![Startup](vm/8.png)
+![Startup](8.png)
 
 Wählt dann die entsprechenden Attribute, der ``Name`` ist egal, der rest sollte zu eurer ISO passen.
 Falls ihr euch für Ubuntu entschieden habt, könnt ihr die Attribute ``Typ`` und ``Version`` so übernehmen.
@@ -68,7 +68,7 @@ Hier die richtigen Attribute zu wählen ist entscheidend, damit die VB weiß wie
 
 
 
-![Startup](vm/9.png)
+![Startup](9.png)
 
 In diesem Schritt geht es darum wie viel Gigabyte von eurem [Random-Access Memory](https://de.wikipedia.org/wiki/Random-Access_Memory) (RAM)
 der VB zu stehen, ein guter Startwert ist 1/3 von eurem Gesamt-RAM. Bei 8 GB RAM, 1-2 GB.
@@ -78,39 +78,39 @@ der VB zu stehen, ein guter Startwert ist 1/3 von eurem Gesamt-RAM. Bei 8 GB RAM
 
  
  
-![Startup](vm/10.png)
+![Startup](10.png)
 
 Bei diesem Schritt und den folgenden geht es nun um die Festplatte.
 Falls ihr kein Vorwissen habt, oder euch nicht sicher seid, übernehmt die Einstellungen aus den Screenshots.
 
 
 
-![Startup](vm/11.png)
+![Startup](11.png)
 
 
-![Startup](vm/12.png)
+![Startup](12.png)
 
 
-![Startup](vm/13.png)
+![Startup](13.png)
 
 Nun habt ihr erfolgreich eine Virtualmachine aufgesetzt.
 
 
 ## ISO installieren
 
-![Startup](vm/14.png)
+![Startup](14.png)
 
 Nun klickt auf den Order mit dem kleinen grünen Pfeil, daraufhin öffnet sich ein neues Fenster.
 
 
 
-![Startup](vm/15.png)
+![Startup](15.png)
 
 Nun klickt auf Hinzufügen und navigiert zu dem Ordner wo ihr die ISO von vorhin runtergeladen habt.
 
 
 
-![Startup](vm/16.png)
+![Startup](16.png)
 
 Drückt auf ``Auswählen``
 
@@ -122,8 +122,13 @@ Für die weitere Installation von Ubuntu folgt diesem
 
 ## Hinweis
 
-![Startup](vm/17.png)
+![Startup](17.png)
 
 Bei der Installation von Ubuntu werdet Ihr auf diese Seite stoßen, 
 dabei müsst ihr keine Angst haben. Dabei werden nicht euren Dateien gelöscht, 
 die VB ist gekapselt und es wird freier Speicherplatz genutzt.
+
+
+## C kompilieren
+
+Wie ihr nun C kompiliiert bekommt, schaut bitte unter [Linux](ckurs/linux.md) nach, da ihr nun auf einem UNIX basiertem Betriebssystem arbeitet.
