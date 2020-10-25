@@ -1,5 +1,3 @@
-## WIP
-
 ## Virtual Machines
 
 Eine Virtual Machine (VM) ist eine Virtualisierungstechnologie bei der ein komplettes [Operating System](https://de.wikipedia.org/wiki/Betriebssystem) (OS) simmuliert wird.
