@@ -18,7 +18,11 @@ For the sake of simplicity stellen wir hier nur eine Virtual Machine vor und das
 dazu klickt auf den Link und dann auf ``Windows hosts``. Nun führt ihr die Exe aus 
 und folgt den Steps.
 
+<kbd>
+    <img src="vm/startup.png" />
+<kbd>
 ![Startup](vm/startup.png)
+</kbd>
 
 ![Startup](vm/2.png)
 
