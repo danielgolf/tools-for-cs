@@ -12,7 +12,7 @@ da ein komplettes OS simuliert werden muss.
 **TL;DR**
 
 
-|           |            VM Header     |                                   WSL Header                            |
+|           |            VM      |                                   WSL                             |
 |:---------:|:------------------------:|:-----------------------------------------------------------------------:|
 |  Vorteile | - GUI<br>- komplettes OS | - viel weniger Ressourcen aufwendig<br>- direkte Gewöhnung ans Terminal |  
 | Nachteile | - Ressourcen aufwendig   | - fehlende GUI                                                          |  
