@@ -19,7 +19,7 @@ dazu klickt auf den Link und dann auf ``Windows hosts``. Nun führt ihr die Exe 
 und folgt den Steps.
 
 <kbd>
-![Startup](vm/startup.png)
+    <img src="vm/startup.png" />
 </kbd>
 
 ![Startup](vm/2.png)
