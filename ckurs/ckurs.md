@@ -7,7 +7,7 @@
 
 * [Windows](windows/windows.md)
 * [Linux](linux.md)
-* [MacOS](macos.md)
+* [MacOS](macOS/macos.md)
 
 ### Weitere Hinweise
 * valgrind
