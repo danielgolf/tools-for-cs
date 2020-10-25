@@ -18,22 +18,24 @@ For the sake of simplicity stellen wir hier nur eine Virtual Machine vor und das
 dazu klickt auf den Link und dann auf ``Windows hosts``. Nun führt ihr die Exe aus 
 und folgt den Steps.
 
-<kbd>
-    <img src="vm/startup.png" />
-<kbd>
 ![Startup](vm/startup.png)
-</kbd>
+
 
 ![Startup](vm/2.png)
 
+
 ![Startup](vm/3.png)
+
 
 ![Startup](vm/4.png)
 
 Hier auf ``Ja`` drücke, damit eure VB später auch einen Internetzugang hat.
 
 
+
 ![Startup](vm/5.png)
+
+
 
 ![Startup](vm/6.png)
 
@@ -55,8 +57,9 @@ Sobald ihr VB startet sollte die GUI so, oder so ähnlich, aussehen
 
 ![Startup](vm/7.png)
 
-
 Nun klickt ihr auf ``Neu``.
+
+
 
 
 ![Startup](vm/8.png)
@@ -66,13 +69,15 @@ Falls ihr euch für Ubuntu entschieden habt, könnt ihr die Attribute ``Typ`` un
 Hier die richtigen Attribute zu wählen ist entscheidend, damit die VB weiß wie sie das zu installierende Betriebssystem anzusprechen hat.
 
 
+
 ![Startup](vm/9.png)
 
 In diesem Schritt geht es darum wie viel Gigabyte von eurem [Random-Access Memory](https://de.wikipedia.org/wiki/Random-Access_Memory) (RAM)
-der VB zu stehen, ein guter Startwert ist 1/8 von eurem Gesamt-RAM.
+der VB zu stehen, ein guter Startwert ist 1/3 von eurem Gesamt-RAM. Bei 8 GB RAM, 1-2 GB.
 
 **Achtung** auf dem Screenshot steht Hauptspeicher, damit wird in der Informatik meist der RAM gemeint und nicht wie 
  vermuten lässt die Festplatte (da wo ihr eure Datein drauf abspeichert).
+
  
  
 ![Startup](vm/10.png)
@@ -81,9 +86,12 @@ Bei diesem Schritt und den folgenden geht es nun um die Festplatte.
 Falls ihr kein Vorwissen habt, oder euch nicht sicher seid, übernehmt die Einstellungen aus den Screenshots.
 
 
+
 ![Startup](vm/11.png)
 
+
 ![Startup](vm/12.png)
+
 
 ![Startup](vm/13.png)
 
@@ -97,14 +105,27 @@ Nun habt ihr erfolgreich eine Virtualmachine aufgesetzt.
 Nun klickt auf den Order mit dem kleinen grünen Pfeil, daraufhin öffnet sich ein neues Fenster.
 
 
+
 ![Startup](vm/15.png)
 
 Nun klickt auf Hinzufügen und navigiert zu dem Ordner wo ihr die ISO von vorhin runtergeladen habt.
+
 
 
 ![Startup](vm/16.png)
 
 Drückt auf ``Auswählen``
 
+Nun bestätigt ihr alle Fragen & eure VB müsste Ubuntu starten, dies kann etwas dauern.
+
+Für die weiteren Einstellungen folgt diesem 
+(Tutorial)[https://ubuntu.com/tutorials/install-ubuntu-desktop#6-allocate-drive-space] ab Punkt 6.
+
+
+## Hinweis
 
 ![Startup](vm/17.png)
+
+Bei der Installation von Ubuntu werdet Ihr auf diese Seite stoßen, 
+dabei müsst ihr keine Angst haben. Dabei werden nicht euren Dateien gelöscht, 
+die VB ist gekapselt und es wird freier Speicherplatz genutzt.
