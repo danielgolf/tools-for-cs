@@ -20,7 +20,5 @@ da ein komplettes OS simuliert werden muss.
 
 Für den Einstieg ist vielleicht eine VM einfacher, jedoch ist das Terminal im Informatik Studium dein bester Freund und im 
 Endeffekt führt ihr den kompilier Befehl bei beiden Varianten über das Terminal aus. 
-* Virtual Machines
-  * VirtualBox
-* [Windows-Subsystem für Linux](wsl.md)
-* Testen mit SSH auf ubu18@eecs
+* [Virtual Machines](vm/vm.md)
+* [Windows-Subsystem für Linux](wsl/wsl.md)
