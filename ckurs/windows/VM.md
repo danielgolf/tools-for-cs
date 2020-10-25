@@ -1,4 +1,4 @@
-##WIP
+## WIP
 
 ## Virtual Machines
 
@@ -28,6 +28,7 @@ und folgt den Steps.
 
 Hier auf ``Ja`` drücke, damit eure VB später auch einen Internetzugang hat.
 
+
 ![Startup](vm/5.png)
 
 ![Startup](vm/6.png)
@@ -37,7 +38,7 @@ zwischen Windows und der VB herstellen kann.
 
 Nun habt ihr VB erfolgreich installiert.
 
-##Einrichtung
+## Einrichtung
 
 Nun müsst ihr euch eine ISO herunterladen, wir nehmen hier als Beispiel 
 ``Ubuntu 20.04.1``, falls es bei euch eine neuere Variante gibt, nutzt diese. Ubuntu könnt ihr [hier](https://ubuntu.com/download/desktop) herunterladen.
@@ -50,13 +51,16 @@ Sobald ihr VB startet sollte die GUI so, oder so ähnlich, aussehen
 
 ![Startup](vm/7.png)
 
+
 Nun klickt ihr auf ``Neu``.
+
 
 ![Startup](vm/8.png)
 
 Wählt dann die entsprechenden Attribute, der ``Name`` ist egal, der rest sollte zu eurer ISO passen.
 Falls ihr euch für Ubuntu entschieden habt, könnt ihr die Attribute ``Typ`` und ``Version`` so übernehmen.
 Hier die richtigen Attribute zu wählen ist entscheidend, damit die VB weiß wie sie das zu installierende Betriebssystem anzusprechen hat.
+
 
 ![Startup](vm/9.png)
 
@@ -66,10 +70,12 @@ der VB zu stehen, ein guter Startwert ist 1/8 von eurem Gesamt-RAM.
 **Achtung** auf dem Screenshot steht Hauptspeicher, damit wird in der Informatik meist der RAM gemeint und nicht wie 
  vermuten lässt die Festplatte (da wo ihr eure Datein drauf abspeichert).
  
+ 
 ![Startup](vm/10.png)
 
 Bei diesem Schritt und den folgenden geht es nun um die Festplatte.
 Falls ihr kein Vorwissen habt, oder euch nicht sicher seid, übernehmt die Einstellungen aus den Screenshots.
+
 
 ![Startup](vm/11.png)
 
@@ -79,15 +85,18 @@ Falls ihr kein Vorwissen habt, oder euch nicht sicher seid, übernehmt die Einst
 
 Nun habt ihr erfolgreich eine Virtualmachine aufgesetzt.
 
+
 ## ISO installieren
 
 ![Startup](vm/14.png)
 
 Nun klickt auf den Order mit dem kleinen grünen Pfeil, daraufhin öffnet sich ein neues Fenster.
 
+
 ![Startup](vm/15.png)
 
 Nun klickt auf Hinzufügen und navigiert zu dem Ordner wo ihr die ISO von vorhin runtergeladen habt.
+
 
 ![Startup](vm/16.png)
 
