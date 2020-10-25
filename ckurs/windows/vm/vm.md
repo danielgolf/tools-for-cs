@@ -131,4 +131,4 @@ die VB ist gekapselt und es wird freier Speicherplatz genutzt.
 
 ## C kompilieren
 
-Wie ihr nun C kompiliiert bekommt, schaut bitte unter [Linux](ckurs/linux.md) nach, da ihr nun auf einem UNIX basiertem Betriebssystem arbeitet.
+Wie ihr nun C kompiliiert bekommt, schaut bitte unter [Linux](../../../ckurs/linux.md) nach, da ihr nun auf einem UNIX basiertem Betriebssystem arbeitet.
