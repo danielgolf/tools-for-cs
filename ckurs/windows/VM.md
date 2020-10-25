@@ -116,7 +116,7 @@ Drückt auf ``Auswählen``
 
 Nun bestätigt ihr alle Fragen & eure VB müsste Ubuntu starten, dies kann etwas dauern.
 
-Für die weiteren Einstellungen folgt diesem 
+Für die weitere Installation von Ubuntu folgt diesem 
 [Tutorial](https://ubuntu.com/tutorials/install-ubuntu-desktop#6-allocate-drive-space]) ab Punkt 6.
 
 
