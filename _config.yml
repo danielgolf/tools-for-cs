@@ -2,6 +2,7 @@ title: Tools for Computer Science
 description: Sammlung von Tipps und nützlichen Ressourcen für Informatik Erstsemester
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
