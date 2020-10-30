@@ -11,5 +11,6 @@ include:
   - linux.md
   - windows.md
   - macos.md
-  - head.html
+  - navigation.yml
+  - navigation.html
 theme: jekyll-theme-cayman
