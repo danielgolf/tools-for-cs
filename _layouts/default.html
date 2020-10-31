@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "de-DE" }}">
 <head>
-    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="{{ "stylesheet.css" | relative_url }}">
     <script>
         $(window).scroll(function() {
             $(".slideanim").each(function(){

@@ -3,9 +3,7 @@
         <div class="collapse navbar-collapse navbar-right" id="myNavbar">
             <ul class="nav navbar-nav">
                 {% for item in site.data.navigation %}
-                <a href="{{ item.link | relative_url }}" {% if item.link == page.url %}class="active"{% endif %}>
-                    {{ item.name }}
-                </a>
+                <a href="{{ item.link | relative_url }}" {% if item.link == page.url %}class="active"{% endif %}>{{item.name}}</a>
                 {% endfor %}
             </ul>
         </div>
