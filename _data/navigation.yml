@@ -1,14 +1,3 @@
-- link: /
-  name: Home
 - link: /ckurs/ckurs.html
   name: C-Kurs
-- link: /test/
-  name: Test1
-- link: /test/
-  name: Test2
-- link: /test/
-  name: Test3
-- link: /test/
-  name: Test4
-- link: /test/
-  name: Test5
+

@@ -1,23 +1,108 @@
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+    }
+}
+
+.slideanim {visibility:hidden;}
+.slide {
+    /* The name of the animation */
+    animation-name: slide;
+    -webkit-animation-name: slide;
+    /* The duration of the animation */
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    /* Make the element visible */
+    visibility: visible;
+}
+
+/* Go from 0% to 100% opacity (see-through) and specify the percentage from when to slide in the element along the Y-axis */
+@keyframes slide {
+    0% {
+        opacity: 0;
+        transform: translateY(70%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0%);
+    }
+}
+@-webkit-keyframes slide {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(70%);
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    }
+}
+
+.fancybox-custom .fancybox-skin {
+    box-shadow: 0 0 50px #222;
+}
+/* Custom modal content styling */
+
+.modal-container {
+    height: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: .3em;
+    box-shadow: 0 0.1em 0.4em rgba(0,0,0,.3);
+}
+
+.modal-title {
+    font-weight: 700;
+    padding: 1.5em;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.modal-body {
+    height: 40%;
+    padding: 200%;
+    overflow-y: auto;
+}
+
+.modal-footer {
+    padding: 1.5em;
+    text-align: justify;
+}
+
+p:first-child {
+    margin-top: 0;
+}
+
 .navbar {
     margin-bottom: 0;
     z-index: 9999;
     border: 0;
-    font-size: 19px !important;
-    line-height: 1.42857143 !important;
+    font-size: 12px !important;
+    line-height: 1.43 !important;
     letter-spacing: 4px;
     border-radius: 0;
 }
 
 .navbar li a, .navbar .navbar-brand {
-    color: #fff !important;
+    color: #159957 !important;
+    display: inline-block;
+    text-align: center;
 }
 
-.navbar-nav li a:hover, .navbar-nav li.active a {
+.navbar-nav li a:hover, li.active a {
     color: #f4511e !important;
     background-color: #fff !important;
+    display: inline-block;
+}
+
+
+.active {
+    color: #f4511e !important;
+    background-color: #fff !important;
+    display: inline-block;
 }
 
 .navbar-default .navbar-toggle {
     border-color: transparent;
-    color: #fff !important;
 }
+
