@@ -1,10 +1,3 @@
-@media screen and (max-width: 768px) {
-    .col-sm-4 {
-        text-align: center;
-        margin: 25px 0;
-    }
-}
-
 .slideanim {visibility:hidden;}
 .slide {
     /* The name of the animation */
@@ -28,6 +21,7 @@
         transform: translateY(0%);
     }
 }
+
 @-webkit-keyframes slide {
     0% {
         opacity: 0;
@@ -41,32 +35,6 @@
 
 .fancybox-custom .fancybox-skin {
     box-shadow: 0 0 50px #222;
-}
-/* Custom modal content styling */
-
-.modal-container {
-    height: 10%;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: .3em;
-    box-shadow: 0 0.1em 0.4em rgba(0,0,0,.3);
-}
-
-.modal-title {
-    font-weight: 700;
-    padding: 1.5em;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-.modal-body {
-    height: 40%;
-    padding: 200%;
-    overflow-y: auto;
-}
-
-.modal-footer {
-    padding: 1.5em;
-    text-align: justify;
 }
 
 p:first-child {
@@ -95,6 +63,9 @@ p:first-child {
     display: inline-block;
 }
 
+body {
+    font-size: 30pt;
+}
 
 .active {
     color: #f4511e !important;
