@@ -29,7 +29,7 @@ in eurem Terminal eingeben und gcc ist fertig installiert.
 Während des erstens Semesters werdet ihr auch mit Valgrind arbeiten. Wie ihr schnell feststellen werdet ist Valgrind nur für die macOS-Versionen X86/MacOSX 10.12 und AMD64/MacOSX 10.12. erhältlich. Hierfür ist es praktisch die Uniserver zu benutzen, wenn möglich sind dafür die Rechnerräume wie zum Beispiel im TEL eine gute Anlaufstelle. Wenn der Zutritt allerdings nicht möglich ist, oder ihr aus anderen Gründen lieber an eurem Computer arbeiten wollt, gibt es die Möglichkeit per [Secure Shell](https://www.campusmanagement.tu-berlin.de/menue/dienste/daten_server/andrew_file_system/anleitungen_und_hinweise/zugriff_via_ssh_zugang/) (SSH) ([näheres](https://wiki.freitagsrunde.org/SSH)) auf die Uniserver zuzugreifen und dort Valgrind auszuführen. Der Zugriff per SSH ist auch zu empfehlen um Hausaufgaben oder ähnliches noch einmal zu kompilieren und auszuführen. Da es vorkommen kann, dass ein Programm auf eurem eigenen Computer zwar einwandfrei kompiliert, aber bei Linus Systemen eventuell Probleme aufkommen.
 
 ### Debugging
-Ein debugger wäre der gdb-Debugger um diesen zu installieren downloadet ihr euch (falls noch nicht getan) Homebrew wie oben beschreiben.
+Ein debugger wäre der gdb-Debugger. Um diesen zu installieren downloadet ihr euch (falls noch nicht getan) Homebrew wie oben beschrieben.
 Nun gebt ihr 
 ```
 brew install gdb
