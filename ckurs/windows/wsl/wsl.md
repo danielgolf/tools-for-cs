@@ -40,3 +40,8 @@ Nun installiert ihr ``gcc``, dies ist ein [Compiler](https://de.wikipedia.org/wi
 5. Um zu überprüfen, dass alles geklappt hat gebt ``gcc --version`` ein, es müsste ähnlich zum Screenshot aussehen.`
 
 ![gcc](gcc.png)
+
+### Video zur Installation
+
+Tobias hat ein Video aufgenommen, in dem er zeigt wie ihr WSL und einen Compiler auf Windows 10 installieren könnt.
+Ihr findet das Video [hier in der TubCloud](https://tubcloud.tu-berlin.de/s/xWcZXpPAnDH8MWg).
